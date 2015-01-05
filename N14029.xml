@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:017750_0000_0FA267FE3518E540"/>
-            <pb facs="tcp:017750_0001_0FA267FE9DF791E0"/>
+            <pb facs="unknown:017750_0000_0FA267FE3518E540"/>
+            <pb facs="unknown:017750_0001_0FA267FE9DF791E0"/>
             <p>M'FINGAL. A MODERN EPIC POEM, IN FOUR CANTOS.</p>
             <q>
                <l>Ergo non ſatis eſt riſu diducere rictum</l>
@@ -152,7 +152,7 @@
       </front>
       <body>
          <div n="1" type="canto">
-            <pb facs="tcp:017750_0002_0FA267FF5A758770"/>
+            <pb facs="unknown:017750_0002_0FA267FF5A758770"/>
             <head>M'FINGAL: CANTO FIRST, OR THE TOWN-MEETING, A. M.</head>
             <lg>
                <l>WHEN Yankies, ſkill'd in martial rule,</l>
@@ -172,7 +172,7 @@
                <l>From Boſton, in his beſt array,</l>
                <l>Great 'Squire M'Fingal took his way,</l>
                <l>
-                  <pb n="4" facs="tcp:017750_0003_0FA2680312958D98"/>
+                  <pb n="4" facs="unknown:017750_0003_0FA2680312958D98"/>
 And graced with enſigns of renown,</l>
                <l>Steer'd homeward to his native town.</l>
             </lg>
@@ -244,7 +244,7 @@ And graced with enſigns of renown,</l>
                   </gap>ull down the empire, on whoſe ruins</l>
                <l>They meant to edify their new ones;</l>
                <l>
-                  <pb n="5" facs="tcp:017750_0004_0FA2680320A75830"/>
+                  <pb n="5" facs="unknown:017750_0004_0FA2680320A75830"/>
 Enſlave th' Amer'can wilderneſſes,</l>
                <l>And tear the provinces in pieces</l>
                <l>For theſe our 'Squire among the valiant'ſt,</l>
@@ -287,7 +287,7 @@ Enſlave th' Amer'can wilderneſſes,</l>
                <l>Made dreadful ſlaughter in his courſe,</l>
                <l>O'erthrew provincials, foot and horſe;</l>
                <l>
-                  <pb n="6" facs="tcp:017750_0005_0FA26803DFB73788"/>
+                  <pb n="6" facs="unknown:017750_0005_0FA26803DFB73788"/>
 Brought armies o'er by ſudden preſſings</l>
                <l>Of Hanoverians, Swiſs and Heſſians;</l>
                <l>Feaſted with blood his Scottiſh clan,</l>
@@ -331,7 +331,7 @@ Brought armies o'er by ſudden preſſings</l>
                   </gap>t' Ulyſſes,</l>
                <l>By night each day's-work pick'd in pieces,</l>
                <l>
-                  <pb n="7" facs="tcp:017750_0006_0FA26804B020B978"/>
+                  <pb n="7" facs="unknown:017750_0006_0FA26804B020B978"/>
 And tho' ſhe ſtoutly did beſtir her,</l>
                <l>Its finiſhing was ne'er the nearer:</l>
                <l>So did this town with ſtedfaſt zeal</l>
@@ -371,7 +371,7 @@ And tho' ſhe ſtoutly did beſtir her,</l>
                <l>Beneath ſtood voters of all colours,</l>
                <l>Whigs, tories, orators and bawlers,</l>
                <l>
-                  <pb n="8" facs="tcp:017750_0007_0FA2680563045718"/>
+                  <pb n="8" facs="unknown:017750_0007_0FA2680563045718"/>
 With ev'ry tongue in either faction,</l>
                <l>Prepared, like minute-men, for action;</l>
                <l>Where truth and falſhood, wrong and right,</l>
@@ -421,7 +421,7 @@ With ev'ry tongue in either faction,</l>
                <l>While others have grown dull and dozy,</l>
                <l>Or fix'd in helpleſs idiocy;</l>
                <l>
-                  <pb n="9" facs="tcp:017750_0008_0FA26806202C2908"/>
+                  <pb n="9" facs="unknown:017750_0008_0FA26806202C2908"/>
 Or turn'd demoniacs to belabour</l>
                <l>Each peaceful habitant and neighbour;</l>
                <l>Or vex'd with hypocondriac fits,</l>
@@ -475,7 +475,7 @@ Or turn'd demoniacs to belabour</l>
                <l>As Eve when falling was ſo modeſt</l>
                <l>To fancy ſhe ſhould grow a goddeſs;</l>
                <l>
-                  <pb n="10" facs="tcp:017750_0009_0FA26806D8724148"/>
+                  <pb n="10" facs="unknown:017750_0009_0FA26806D8724148"/>
 As madmen, ſtraw who long have ſlept on,</l>
                <l>Will ſtile them, Jupiter or Neptune:</l>
                <l>So Britain 'midſt her airs ſo ſlighty,</l>
@@ -526,7 +526,7 @@ As madmen, ſtraw who long have ſlept on,</l>
                <l>She firſt, without pretence of reaſon,</l>
                <l>Claim'd right whate'er we had to ſeize on;</l>
                <l>
-                  <pb n="11" facs="tcp:017750_0010_0FA2680970C61580"/>
+                  <pb n="11" facs="unknown:017750_0010_0FA2680970C61580"/>
 And with determin'd reſolution,</l>
                <l>To put her claims in execution,</l>
                <l>Sent ſire and ſword, and call'd it, Lenity,</l>
@@ -585,7 +585,7 @@ And with determin'd reſolution,</l>
                   </gap>er perſon,</l>
                <l>To carry ſuch a ſilly farce on.</l>
                <l>
-                  <pb n="12" facs="tcp:017750_0011_0FA2680B42739040"/>
+                  <pb n="12" facs="unknown:017750_0011_0FA2680B42739040"/>
 A<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> Heathen gods in antient days</l>
@@ -627,7 +627,7 @@ A<gap reason="illegible" resp="#AELD" extent="1 letter">
                <l>Since he began th' unnatural war,</l>
                <l>The work his maſters ſent him for.</l>
                <l>
-                  <pb n="13" facs="tcp:017750_0012_0FA2680C388928E8"/>
+                  <pb n="13" facs="unknown:017750_0012_0FA2680C388928E8"/>
 And are there in this freeborn land</l>
                <l>Among ourſelves a venal band,</l>
                <l>A daſtard race, who long have ſold</l>
@@ -670,7 +670,7 @@ And are there in this freeborn land</l>
                <l>Not quicker roll'd the waves to land,</l>
                <l>When Moſes wav'd his potent wand,</l>
                <l>
-                  <pb n="14" facs="tcp:017750_0013_0FA2680DD37F41B8"/>
+                  <pb n="14" facs="unknown:017750_0013_0FA2680DD37F41B8"/>
 Nor with more uproar, than the Tories</l>
                <l>Set up a gen'ral rout in chorus;</l>
                <l>Laugh'd, hiſs'd, hem'd, murmur'd, groan'd and jeer'd;</l>
@@ -710,7 +710,7 @@ Nor with more uproar, than the Tories</l>
                <l>So let it be—for now our 'Squire</l>
                <l>No longer could contain his ire;</l>
                <l>
-                  <pb n="15" facs="tcp:017750_0014_0FA2680E5738D300"/>
+                  <pb n="15" facs="unknown:017750_0014_0FA2680E5738D300"/>
 And riſing 'midſt applauding Tories,</l>
                <l>Thus vented wrath upon Honorius.</l>
             </lg>
@@ -772,7 +772,7 @@ And riſing 'midſt applauding Tories,</l>
                   </gap>y<g ref="char:punc">▪</g>
                </l>
                <l>
-                  <pb n="16" facs="tcp:017750_0015_0FA2680F1FCDA1D0"/>
+                  <pb n="16" facs="unknown:017750_0015_0FA2680F1FCDA1D0"/>
 From Prieſts of all degrees and metres,</l>
                <l>T' our fag-end man poor<note n="‡" place="bottom">Peters, a Tory-Clergyman in Connecticut, who after making himſelf dereſtable by his inimical conduct, abſcond<g ref="char:EOLhyphen"/>ed from the contempt, rather than the vengeance of his coun<g ref="char:EOLhyphen"/>trymen, and fled to England to make complaints againſt that colony: Cooper, a writer, poet, and <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -835,7 +835,7 @@ From Prieſts of all degrees and metres,</l>
                <l>For future knav'ries gives commissions,</l>
                <l>Like Papiſts ſinning under licence.</l>
                <l>
-                  <pb n="17" facs="tcp:017750_0016_0FA2680FEBC87B18"/>
+                  <pb n="17" facs="unknown:017750_0016_0FA2680FEBC87B18"/>
 For heav'n ordain'd the origin,</l>
                <l>Divines declare, of pain and ſin;</l>
                <l>Prove ſuch great good they both have done us;</l>
@@ -872,7 +872,7 @@ For heav'n ordain'd the origin,</l>
                <l>And rank among <hi>the pow'rs that be:</hi>
                </l>
                <l>
-                  <pb n="18" facs="tcp:017750_0017_0FA26810974A5B48"/>
+                  <pb n="18" facs="unknown:017750_0017_0FA26810974A5B48"/>
 For hell is theirs, the ſcripture ſhows,</l>
                <l>Whoe'er <hi>the pow'rs that be</hi> oppoſe,</l>
                <l>And all thoſe pow'rs (I am clear that 'tis <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -914,7 +914,7 @@ For hell is theirs, the ſcripture ſhows,</l>
                <l>New whitewaſh'd Hutchinſon and varniſh'd,</l>
                <l>Our Gage, who'd got a little tarniſh'd,</l>
                <l>
-                  <pb n="19" facs="tcp:017750_0018_0FA2681326765428"/>
+                  <pb n="19" facs="unknown:017750_0018_0FA2681326765428"/>
 Made 'em new maſks, in time no doubt,</l>
                <l>For Hutchinſon's was quite worn out;</l>
                <l>And while he muddled all his head,</l>
@@ -952,7 +952,7 @@ Made 'em new maſks, in time no doubt,</l>
                <l>"As for your faſts, replied our 'Squire,</l>
                <l>What circumſtance could faſts require;</l>
                <l>
-                  <pb n="20" facs="tcp:017750_0019_0FA26814E6139EA0"/>
+                  <pb n="20" facs="unknown:017750_0019_0FA26814E6139EA0"/>
 We kept them not, but 'twas no crime;</l>
                <l>We held them merely loſs of time.</l>
                <l>For what advantage firm and laſting,</l>
@@ -997,7 +997,7 @@ We kept them not, but 'twas no crime;</l>
                <l>Was there a parſon uſed to pray</l>
                <l>At times more reg'lar twice a day;</l>
                <l>
-                  <pb n="21" facs="tcp:017750_0020_0FA26815C33B9748"/>
+                  <pb n="21" facs="unknown:017750_0020_0FA26815C33B9748"/>
 As folks exact have dinners got,</l>
                <l>Whether they've appetites or not?</l>
                <l>Was there a zealot more alarming</l>
@@ -1042,7 +1042,7 @@ As folks exact have dinners got,</l>
                <l>" Quoth he, For lies and promiſe-breaking</l>
                <l>Ye need not be in ſuch a taking;</l>
                <l>
-                  <pb n="22" facs="tcp:017750_0021_0FA26815F9FB8180"/>
+                  <pb n="22" facs="unknown:017750_0021_0FA26815F9FB8180"/>
 For lying is, we know and teach,</l>
                <l>The higheſt privilege of ſpeech;</l>
                <l>The univerſal Magna Charta,</l>
@@ -1084,7 +1084,7 @@ For lying is, we know and teach,</l>
                <l>So Moſes writes, when female Jews</l>
                <l>Made oaths and vows unfit for uſe,</l>
                <l>
-                  <pb n="23" facs="tcp:017750_0022_0FA268169C3DDBC0"/>
+                  <pb n="23" facs="unknown:017750_0022_0FA268169C3DDBC0"/>
 Their parents then might ſet them free</l>
                <l>From that conſcientious tyranny:</l>
                <l>And ſhall men feel that ſpir'tual bondage</l>
@@ -1125,7 +1125,7 @@ Their parents then might ſet them free</l>
                <l>More groans than haunted churchyard vallies,</l>
                <l>And more confeſſions than bread-alleys.</l>
                <l>
-                  <pb n="24" facs="tcp:017750_0023_0FA268176D145FF0"/>
+                  <pb n="24" facs="unknown:017750_0023_0FA268176D145FF0"/>
 I'll ſhow you all at fitter time,</l>
                <l>The extent and greatneſs of your crime<g ref="char:punc">▪</g>
                </l>
@@ -1143,7 +1143,7 @@ I'll ſhow you all at fitter time,</l>
             <trailer>END OF CANTO FIRST.</trailer>
          </div>
          <div n="2" type="canto">
-            <pb facs="tcp:017750_0024_0FA26819163D6F88"/>
+            <pb facs="unknown:017750_0024_0FA26819163D6F88"/>
             <head>M'FINGAL: CANTO SECOND, OR THE TOWN-MEETING, P. M.</head>
             <lg>
                <l>THE Sun, who never <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1179,7 +1179,7 @@ I'll ſhow you all at fitter time,</l>
                <l>I leave the verdict to your ſenſes,</l>
                <l>And jury of your conſciences;</l>
                <l>
-                  <pb n="26" facs="tcp:017750_0025_0FA268199CB0C9A0"/>
+                  <pb n="26" facs="unknown:017750_0025_0FA268199CB0C9A0"/>
 Which tho' they're neither good nor true,</l>
                <l>Muſt yet convict you and your crew,</l>
                <l>Ungrateful ſons! a factious band,</l>
@@ -1227,7 +1227,7 @@ Which tho' they're neither good nor true,</l>
                      <desc>〈◊〉</desc>
                   </gap> and goſpel too?</l>
                <l>
-                  <pb n="27" facs="tcp:017750_0026_0FA2681A57109A20"/>
+                  <pb n="27" facs="unknown:017750_0026_0FA2681A57109A20"/>
 Brought o'er all felons in the nation,</l>
                <l>To help you on in population;</l>
                <l>Propoſ'd their Biſhops to ſurrender,</l>
@@ -1269,7 +1269,7 @@ Brought o'er all felons in the nation,</l>
                <l>Or not maintain in manner ſitting,</l>
                <l>Theſe genuine ſons of mother Britain?</l>
                <l>
-                  <pb n="28" facs="tcp:017750_0027_0FA2681CDDF8B2F0"/>
+                  <pb n="28" facs="unknown:017750_0027_0FA2681CDDF8B2F0"/>
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> 
@@ -1334,7 +1334,7 @@ Brought o'er all felons in the nation,</l>
                      <desc>〈◊〉</desc>
                   </gap> your old Gen'ral, ſtout Sir Jeffery,</l>
                <l>
-                  <pb n="29" facs="tcp:017750_0028_0FA2681DC3C243D8"/>
+                  <pb n="29" facs="unknown:017750_0028_0FA2681DC3C243D8"/>
 Who ſwore that with five thouſand foot</l>
                <l>He'd rout you all, and in purſuit,</l>
                <l>Run thro' the land as eaſily,</l>
@@ -1374,7 +1374,7 @@ Who ſwore that with five thouſand foot</l>
                <l>For has not North declar'd they fight</l>
                <l>To gain ſubſtantial rev'nue by't,</l>
                <l>
-                  <pb n="30" facs="tcp:017750_0029_0FA2681E19440868"/>
+                  <pb n="30" facs="unknown:017750_0029_0FA2681E19440868"/>
 Denied he'd ever deign to treat,</l>
                <l>Till on your knees and at his feet?</l>
                <l>And feel you not a triſling ague,</l>
@@ -1433,7 +1433,7 @@ Denied he'd ever deign to treat,</l>
                      <desc>〈◊〉</desc>
                   </gap> a new converted Negro?</l>
                <l>
-                  <pb n="31" facs="tcp:017750_0030_0FA2681EDE14BEA0"/>
+                  <pb n="31" facs="unknown:017750_0030_0FA2681EDE14BEA0"/>
 As friends to gov'rnment did not he</l>
                <l>Their ſlaves at Boſton late ſet free;</l>
                <l>Enliſt them all in black parade,</l>
@@ -1487,7 +1487,7 @@ As friends to gov'rnment did not he</l>
                <l>While wearying out the Tories' patience,</l>
                <l>He ſpent his breath in proclamations;</l>
                <l>
-                  <pb n="32" facs="tcp:017750_0031_0FA2681F9E6D3EE0"/>
+                  <pb n="32" facs="unknown:017750_0031_0FA2681F9E6D3EE0"/>
 While all hi<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> mighty noiſe and vapour</l>
@@ -1588,7 +1588,7 @@ While all hi<gap reason="illegible" resp="#AELD" extent="1 letter">
                   </gap> of late</l>
                <l>Diſcloſed rebellions 'gainſt the ſtate;</l>
                <l>
-                  <pb n="33" facs="tcp:017750_0032_0FA2682059B5E4D8"/>
+                  <pb n="33" facs="unknown:017750_0032_0FA2682059B5E4D8"/>
 So Frogs croak'd Pharaoh to repentance,</l>
                <l>And Lice revers'd the threat'ning ſentence:</l>
                <l>And heav'n can ruin you at pleaſure,</l>
@@ -1635,7 +1635,7 @@ So Frogs croak'd Pharaoh to repentance,</l>
                   </gap> car</l>
                <l>The waving enſigns of the war!</l>
                <l>
-                  <pb n="34" facs="tcp:017750_0033_0FA268232DD21270"/>
+                  <pb n="34" facs="unknown:017750_0033_0FA268232DD21270"/>
 As when a triumph Rome decreed,</l>
                <l>For great Calig'la's valiant deed,</l>
                <l>Who had ſubdued the Britiſh ſeas,</l>
@@ -1687,7 +1687,7 @@ As when a triumph Rome decreed,</l>
                      <desc>•</desc>
                   </gap>l Leſlie:</l>
                <l>
-                  <pb n="35" facs="tcp:017750_0034_0FA26824E8816E38"/>
+                  <pb n="35" facs="unknown:017750_0034_0FA26824E8816E38"/>
 Not thicker o'er the blacken'd ſtrand</l>
                <l>The<note n="*" place="bottom">See Homer's battle of the frogs and mice.</note> frogs' detachment ruſh'd to land,</l>
                <l>Equipp'd by onſet or ſurprize</l>
@@ -1723,7 +1723,7 @@ Not thicker o'er the blacken'd ſtrand</l>
                <l>And yet tho' this was all his ſcheme,</l>
                <l>This war you ſtill will charge on him;</l>
                <l>
-                  <pb n="36" facs="tcp:017750_0035_0FA268260CD93710"/>
+                  <pb n="36" facs="unknown:017750_0035_0FA268260CD93710"/>
 And tho' he oft has ſwore and ſaid it,</l>
                <l>Stick cloſe to facts and give no credit.</l>
                <l>Think you, he wiſh'd you'd brave and beard him?</l>
@@ -1765,7 +1765,7 @@ And tho' he oft has ſwore and ſaid it,</l>
                <l>Did they not ſhow their love to peace,</l>
                <l>And wiſh, that diſcord ſtrait might ceaſe,</l>
                <l>
-                  <pb n="37" facs="tcp:017750_0036_0FA268265CADF310"/>
+                  <pb n="37" facs="unknown:017750_0036_0FA268265CADF310"/>
 Demonſtrate, and by proofs uncommon,</l>
                <l>Their orders were to injure no man?</l>
                <l>For did not ev'ry Reg'lar run</l>
@@ -1815,7 +1815,7 @@ Demonſtrate, and by proofs uncommon,</l>
                <l>Whoſe admiralty reaches clever,</l>
                <l>Near half a mile up Myſtic river,</l>
                <l>
-                  <pb n="38" facs="tcp:017750_0037_0FA268273A5401C0"/>
+                  <pb n="38" facs="unknown:017750_0037_0FA268273A5401C0"/>
 Whoſe naval force commands the ſeat,</l>
                <l>Can run away when'er he pleaſe)</l>
                <l>Scar'd troops of Tories into town,</l>
@@ -1899,7 +1899,7 @@ Whoſe naval force commands the ſeat,</l>
                      <desc>〈◊〉</desc>
                   </gap>,</l>
                <l>
-                  <pb n="39" facs="tcp:017750_0038_0FA26828DDAB69C8"/>
+                  <pb n="39" facs="unknown:017750_0038_0FA26828DDAB69C8"/>
 Thinks hornbugs bullets, or thro' ſcars</l>
                <l>Muſkitoes takes for muſketeers;</l>
                <l>Nor ſcapes, as tho' you'd gain'd allies</l>
@@ -1997,7 +1997,7 @@ Thinks hornbugs bullets, or thro' ſcars</l>
                      <desc>〈…〉</desc>
                   </gap>,</l>
                <l>
-                  <pb n="40" facs="tcp:017750_0039_0FA26E0AA4CD43C0"/>
+                  <pb n="40" facs="unknown:017750_0039_0FA26E0AA4CD43C0"/>
 While thro' the deeps her potent thunder</l>
                <l>Shall ſound th' alarm to rob and plunder!</l>
                <l>As Phoebus firſt, ſo Homer ſpeaks,</l>
@@ -2040,7 +2040,7 @@ While thro' the deeps her potent thunder</l>
                <l>While noiſe in formidable ſtrains</l>
                <l>Spouts from his thimble-full of brains!</l>
                <l>
-                  <pb n="41" facs="tcp:017750_0040_0FA26E0BA0D7CE70"/>
+                  <pb n="41" facs="unknown:017750_0040_0FA26E0BA0D7CE70"/>
 I ſee you ſink with aw'd ſurprize!</l>
                <l>I ſee our Tory-brethren riſe!</l>
                <l>And as the ſect'ries Sandemanian,</l>
@@ -2078,7 +2078,7 @@ I ſee you ſink with aw'd ſurprize!</l>
                <l>While earth for many dozen leagues</l>
                <l>Groan'd with her diſmal load or Whigs?</l>
                <l>
-                  <pb n="42" facs="tcp:017750_0041_0FA26E0C766A3CA0"/>
+                  <pb n="42" facs="unknown:017750_0041_0FA26E0C766A3CA0"/>
 Was there a meteor far and wide</l>
                <l>But muſter'd on the Tory-ſide?</l>
                <l>A ſtar malign that has not bent</l>
@@ -2118,7 +2118,7 @@ Was there a meteor far and wide</l>
                <l>The day of joy, when North, our Lord,</l>
                <l>His ſaithful favorites ſhall reward!</l>
                <l>
-                  <pb n="43" facs="tcp:017750_0042_0FA26E0E38D1B720"/>
+                  <pb n="43" facs="unknown:017750_0042_0FA26E0E38D1B720"/>
 No Tory then ſhall ſet before him</l>
                <l>Small wiſh of 'Squire, or Juſtice Quo<gap reason="illegible" resp="#AELD" extent="3 letters">
                      <desc>•••</desc>
@@ -2168,7 +2168,7 @@ No Tory then ſhall ſet before him</l>
                <l>Knights, viſcounts, barons ſhall ye meet</l>
                <l>As thick as pavements in the ſtreet!</l>
                <l>
-                  <pb n="44" facs="tcp:017750_0043_0FA26E0E4F85B1A0"/>
+                  <pb n="44" facs="unknown:017750_0043_0FA26E0E4F85B1A0"/>
 Ev'n I perhaps, heav'n ſpeed my claim,</l>
                <l>Shall fix a <hi>Sir</hi> before my name.</l>
                <l>For titles all our foreheads ache;</l>
@@ -2214,7 +2214,7 @@ Ev'n I perhaps, heav'n ſpeed my claim,</l>
                      <desc>•</desc>
                   </gap>till for our blood their minions hanker,</l>
                <l>
-                  <pb n="45" facs="tcp:017750_0044_0FA26E10ED04DB48"/>
+                  <pb n="45" facs="unknown:017750_0044_0FA26E10ED04DB48"/>
 Nor aught can ſate their mad ambition,</l>
                <l>From us, but death, or worſe, ſubmiſſion.</l>
                <l>Shall theſe then riot in our ſpoil,</l>
@@ -2260,7 +2260,7 @@ Nor aught can ſate their mad ambition,</l>
                <l>Yes, tho' tyrannic ſorce oppoſe,</l>
                <l>Still ſhall they triumph o'er their ſoes,</l>
                <l>
-                  <pb n="46" facs="tcp:017750_0045_0FA26E12A193B400"/>
+                  <pb n="46" facs="unknown:017750_0045_0FA26E12A193B400"/>
 Fill heav'n the happy land ſhall bleſs,</l>
                <l>Wi<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -2304,7 +2304,7 @@ Fill heav'n the happy land ſhall bleſs,</l>
                <l>As thus he ſaid, the Tories' anger</l>
                <l>Could now reſtrain itſelf no longer,</l>
                <l>
-                  <pb n="47" facs="tcp:017750_0046_0FA26E12D528DEC0"/>
+                  <pb n="47" facs="unknown:017750_0046_0FA26E12D528DEC0"/>
 Who tried before by many a freak, or</l>
                <l>Inſulting noiſe, to ſtop the ſpeaker;</l>
                <l>Swung th' unoil'd hinge of each pew-door;</l>
@@ -2372,7 +2372,7 @@ Who tried before by many a freak, or</l>
                      <desc>•</desc>
                   </gap>w,</l>
                <l>
-                  <pb n="48" facs="tcp:017750_0047_0FA26E13B8ACCA00"/>
+                  <pb n="48" facs="unknown:017750_0047_0FA26E13B8ACCA00"/>
 Prepar'd in either chance to ſhare,</l>
                <l>To keep the peace, or aid the war.</l>
                <l>Nor lack'd they each poetic being,</l>
@@ -2421,7 +2421,7 @@ Prepar'd in either chance to ſhare,</l>
             <trailer>END OF CANTO SECOND.</trailer>
          </div>
          <div n="3" type="canto">
-            <pb facs="tcp:017750_0048_0FA26E1458A2BF58"/>
+            <pb facs="unknown:017750_0048_0FA26E1458A2BF58"/>
             <head>M 'FINGAL: CANTO THIRD, OR THE LIBERTY POLE.</head>
             <lg>
                <l>NOW arm'd with miniſterial ire,</l>
@@ -2453,7 +2453,7 @@ Prepar'd in either chance to ſhare,</l>
                      <desc>•</desc>
                   </gap>ip:</l>
                <l>
-                  <pb n="50" facs="tcp:017750_0049_0FA26E15417C3408"/>
+                  <pb n="50" facs="unknown:017750_0049_0FA26E15417C3408"/>
 Delicious draught, whoſe pow'rs inherit</l>
                <l>The quinteſſence of public ſpirit!</l>
                <l>Which whoſo taſtes, perceives his mind!</l>
@@ -2495,7 +2495,7 @@ Delicious draught, whoſe pow'rs inherit</l>
                <l>When bombs, like fiery ſerpents, fly</l>
                <l>And balls move hiſſing thro' the ſky,</l>
                <l>
-                  <pb n="51" facs="tcp:017750_0050_0FA26E15D6961EA8"/>
+                  <pb n="51" facs="unknown:017750_0050_0FA26E15D6961EA8"/>
 Will this vile <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, devote to freedom,</l>
@@ -2541,7 +2541,7 @@ Will this vile <gap reason="illegible" resp="#AELD" extent="1 word">
                <l>Diſpute and pray and fight and groan,</l>
                <l>For public good, and mean your own;</l>
                <l>
-                  <pb n="52" facs="tcp:017750_0051_0FA26E169AADB640"/>
+                  <pb n="52" facs="unknown:017750_0051_0FA26E169AADB640"/>
 Prevent the laws, by fierce attacks,</l>
                <l>From quitting ſcores upon your backs,</l>
                <l>Lay your old dread, the gallows, low,</l>
@@ -2589,7 +2589,7 @@ Prevent the laws, by fierce attacks,</l>
                <l>From dunghills deep of ſable hue,</l>
                <l>Your dirtbred patriots ſpring to view,</l>
                <l>
-                  <pb n="53" facs="tcp:017750_0052_0FA26E1755F064E0"/>
+                  <pb n="53" facs="unknown:017750_0052_0FA26E1755F064E0"/>
 To wealth and pow'r and penſion riſe,</l>
                <l>Like new-wing'd maggots chang'd to flies;</l>
                <l>And ſluttring round in proud parade,</l>
@@ -2619,7 +2619,7 @@ To wealth and pow'r and penſion riſe,</l>
                <l>You've paſh'd and turn'd the whole world up-</l>
                <l>Side down and got yourſelves a-top:</l>
                <l>
-                  <pb n="54" facs="tcp:017750_0053_0FA26E18261E6088"/>
+                  <pb n="54" facs="unknown:017750_0053_0FA26E18261E6088"/>
 While all the great ones of your ſtate,</l>
                <l>Are cruſh'd beneath the pop'lar weight,</l>
                <l>Nor can you boaſt this preſent hour,</l>
@@ -2659,7 +2659,7 @@ While all the great ones of your ſtate,</l>
                <l>Your Commonwealth's a common harlot,</l>
                <l>The property of ev'ry varlet,</l>
                <l>
-                  <pb n="55" facs="tcp:017750_0054_0FA26E18D43873E0"/>
+                  <pb n="55" facs="unknown:017750_0054_0FA26E18D43873E0"/>
 Which now in taſte and full employ,</l>
                <l>All ſorts admire, as all enjoy;</l>
                <l>But ſoon a batter'd ſtrumpet grown,</l>
@@ -2699,7 +2699,7 @@ Which now in taſte and full employ,</l>
                <l>While the king's friends in doleful dumps,</l>
                <l>Have worn their courage to the ſtumps,</l>
                <l>
-                  <pb n="56" facs="tcp:017750_0055_0FA26E198FF27D30"/>
+                  <pb n="56" facs="unknown:017750_0055_0FA26E198FF27D30"/>
 And leaving George in ſad diſaſter,</l>
                <l>Moſt ſinfully deny their maſter.</l>
                <l>What furies raged when you in ſea,</l>
@@ -2747,7 +2747,7 @@ And leaving George in ſad diſaſter,</l>
                <l>As witches with clay-images,</l>
                <l>Deſtroy or torture whom they pleaſe;</l>
                <l>
-                  <pb n="57" facs="tcp:017750_0056_0FA26E1AECF235D8"/>
+                  <pb n="57" facs="unknown:017750_0056_0FA26E1AECF235D8"/>
 Till ſired with rage, th' ungrateful club</l>
                <l>Spared not your beſt friend, Belzebub,</l>
                <l>O'erlook'd his favours and forgot</l>
@@ -2794,7 +2794,7 @@ Till ſired with rage, th' ungrateful club</l>
                <l>Before our ram's horns proſtrate ſall."</l>
             </lg>
             <lg>
-               <pb n="58" facs="tcp:017750_0057_0FA26E1B8CBB1438"/>
+               <pb n="58" facs="unknown:017750_0057_0FA26E1B8CBB1438"/>
                <l>This ſaid, our 'Squire, yet undiſmay'd,</l>
                <l>Call'd forth the Conſtable to aid,</l>
                <l>And bade him read in nearer ſtation,</l>
@@ -2842,7 +2842,7 @@ Till ſired with rage, th' ungrateful club</l>
                <l>And many a groan increas'd the din</l>
                <l>From broken noſe and batter'd ſhin.</l>
                <l>
-                  <pb n="59" facs="tcp:017750_0058_0FA26E1E76E48D20"/>
+                  <pb n="59" facs="unknown:017750_0058_0FA26E1E76E48D20"/>
 M'Fingal riſing at the word,</l>
                <l>Drew forth his old militia ſword;</l>
                <l>Thrice cried, "King George," as erſt in diſtreſs</l>
@@ -2907,7 +2907,7 @@ M'Fingal riſing at the word,</l>
                      </gap> in Milton.</note>
                </l>
                <l>
-                  <pb n="60" facs="tcp:017750_0059_0FA26E1ED2177070"/>
+                  <pb n="60" facs="unknown:017750_0059_0FA26E1ED2177070"/>
 The Whig thus arm'd, untaught to yield,</l>
                <l>Advanc'd tremendous to the field;</l>
                <l>Nor did M'Fingal ſhun the foe,</l>
@@ -2964,7 +2964,7 @@ The Whig thus arm'd, untaught to yield,</l>
                <l>Amaz'd he view'd the ſhameful ſight,</l>
                <l>And ſaw no refuge but in flight:</l>
                <l>
-                  <pb n="61" facs="tcp:017750_0060_0FA26E210AE830C8"/>
+                  <pb n="61" facs="unknown:017750_0060_0FA26E210AE830C8"/>
 But age unweildy check'd his pace,</l>
                <l>Tho' fear had wing'd his flying race;</l>
                <l>For not a trifling prize at ſtake;</l>
@@ -3008,7 +3008,7 @@ But age unweildy check'd his pace,</l>
                <l>And with loud ſhouts and joyful ſoul</l>
                <l>Conduct him pris'ner to the pole.]</l>
                <l>
-                  <pb n="62" facs="tcp:017750_0061_0FA26E211C635D50"/>
+                  <pb n="62" facs="unknown:017750_0061_0FA26E211C635D50"/>
 When now the Mob in lucky hour,</l>
                <l>Had got their en'mies in their pow'r,</l>
                <l>They firſt proceed by wiſe command</l>
@@ -3048,7 +3048,7 @@ When now the Mob in lucky hour,</l>
                <l>I'll never join with Britiſh rage,</l>
                <l>Nor help Lord North, or Gen'ral Gage,</l>
                <l>
-                  <pb n="63" facs="tcp:017750_0062_0FA26E22472F89E0"/>
+                  <pb n="63" facs="unknown:017750_0062_0FA26E22472F89E0"/>
 Nor lift my gun in future fights,</l>
                <l>Nor take away your charter'd rights,</l>
                <l>Nor overcome your new-rais'd levies,</l>
@@ -3094,7 +3094,7 @@ Nor lift my gun in future fights,</l>
                <l>And can you think my faith will after,</l>
                <l>By tarring, whipping, or the halter?</l>
                <l>
-                  <pb n="64" facs="tcp:017750_0063_0FA26E228FBACB60"/>
+                  <pb n="64" facs="unknown:017750_0063_0FA26E228FBACB60"/>
 I'll ſtand the worſt; for re<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap>mpence</l>
@@ -3152,7 +3152,7 @@ I'll ſtand the worſt; for re<gap reason="illegible" resp="#AELD" extent="2 let
                <l>While he, in peril of his ſoul,</l>
                <l>Stood tied half hanging to the pole;</l>
                <l>
-                  <pb n="65" facs="tcp:017750_0064_0FA26E236C1EC8D8"/>
+                  <pb n="65" facs="unknown:017750_0064_0FA26E236C1EC8D8"/>
 Then liſting high the pond' rous jar,</l>
                <l>Pour'd o'er his head the ſmoaking tar:</l>
                <l>With leſs profuſion erſt was ſpread</l>
@@ -3199,7 +3199,7 @@ Then liſting high the pond' rous jar,</l>
                   </gap>'s ſon, with wings for ears,</l>
                <l>Such plumes around his viſage wears;</l>
                <l>
-                  <pb n="66" facs="tcp:017750_0065_0FA26E2416B8A298"/>
+                  <pb n="66" facs="unknown:017750_0065_0FA26E2416B8A298"/>
 Nor Milton's ſix wing'd angel gathers,</l>
                <l>Such ſuperfluity of feathers.</l>
                <l>Till all compleat appears our 'Squire</l>
@@ -3248,7 +3248,7 @@ Nor Milton's ſix wing'd angel gathers,</l>
                <l>Leſs dire in Lybian wilds the noiſe</l>
                <l>When rav'ning lions lift their voice;</l>
                <l>
-                  <pb n="67" facs="tcp:017750_0066_0FA26E24DA224308"/>
+                  <pb n="67" facs="unknown:017750_0066_0FA26E24DA224308"/>
 Or triumphs at town-meetings made,</l>
                <l>On paſſing votes to reg 'late trade.</l>
             </lg>
@@ -3295,7 +3295,7 @@ Or triumphs at town-meetings made,</l>
                      <desc>•</desc>
                   </gap>ertends what diſmal times are coming.</l>
                <l>
-                  <pb n="68" facs="tcp:017750_0067_0FA26E25ADAF9A38"/>
+                  <pb n="68" facs="unknown:017750_0067_0FA26E25ADAF9A38"/>
 Now future ſcenes before my eyes,</l>
                <l>And ſecond-ſighted forms ariſe;</l>
                <l>I hear a voice that calls away,</l>
@@ -3322,7 +3322,7 @@ Now future ſcenes before my eyes,</l>
             <trailer>END OF CANTO THIRD</trailer>
          </div>
          <div n="4" type="canto">
-            <pb facs="tcp:017750_0068_0FA26E282D9EBDD0"/>
+            <pb facs="unknown:017750_0068_0FA26E282D9EBDD0"/>
             <head>M 'FINGAL: CANTO FOURTH, OR THE VISION.</head>
             <lg>
                <l>Now night came down, and roſe full ſoon</l>
@@ -3385,7 +3385,7 @@ Now future ſcenes before my eyes,</l>
                   </note> form had wholly loſt</l>
                <l>The original brightneſs it could boaſt,</l>
                <l>
-                  <pb n="70" facs="tcp:017750_0069_0FA26E29B67A1B20"/>
+                  <pb n="70" facs="unknown:017750_0069_0FA26E29B67A1B20"/>
 Nor leſs appear'd than Juſtice Quorum,</l>
                <l>In feather'd majeſty before 'em.</l>
                <l>Adown his tarſtreak'd viſage, clear</l>
@@ -3431,7 +3431,7 @@ Nor leſs appear'd than Juſtice Quorum,</l>
                <l>Trees rooted fair in groves of fallows</l>
                <l>Are growing for our future gallows;</l>
                <l>
-                  <pb n="71" facs="tcp:017750_0070_0FA26E2B14ACE478"/>
+                  <pb n="71" facs="unknown:017750_0070_0FA26E2B14ACE478"/>
 And geeſe unhatch'd, when pluck'd in fray,</l>
                <l>Shall rue the feath'ring of that day.</l>
                <l>For me, before theſe fatal days</l>
@@ -3470,7 +3470,7 @@ And geeſe unhatch'd, when pluck'd in fray,</l>
                <l>With feeble voice, as ſpirits uſe,</l>
                <l>Now almoſt choak'd with gripe of nooſe;</l>
                <l>
-                  <pb n="72" facs="tcp:017750_0071_0FA26E2BC73A5F50"/>
+                  <pb n="72" facs="unknown:017750_0071_0FA26E2BC73A5F50"/>
 " Ah<note n="†" place="bottom">There is in this ſcene a general alluſion to the appear<g ref="char:EOLhyphen"/>ance and ſpeech of Hector's ghoſt in the ſecond book of his the <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>.</note> fly, my friend, he cried, eſcape,</l>
@@ -3530,7 +3530,7 @@ And geeſe unhatch'd, when pluck'd in fray,</l>
                <l>As ſhown by great archangel, Michael,</l>
                <l>Old Adam ſaw the world's whole ſequel,</l>
                <l>
-                  <pb n="73" facs="tcp:017750_0072_0FA26E2D4D01F8A8"/>
+                  <pb n="73" facs="unknown:017750_0072_0FA26E2D4D01F8A8"/>
 And from the mount's extended ſpace,</l>
                <l>The riſing fortunes of his race;</l>
                <l>So from this ſtage ſhalt thou behold,</l>
@@ -3572,7 +3572,7 @@ And from the mount's extended ſpace,</l>
                <l>There Bennington's enſanguin'd plain,</l>
                <l>And Stony-Point, the prize of Wayne.</l>
                <l>
-                  <pb n="74" facs="tcp:017750_0073_0FA26E2DDBDDD5B8"/>
+                  <pb n="74" facs="unknown:017750_0073_0FA26E2DDBDDD5B8"/>
 Behold near Del'ware's icy roar,</l>
                <l>Where morning dawns on Tre<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
@@ -3624,7 +3624,7 @@ Behold near Del'ware's icy roar,</l>
                <l>But held the views an empty dream,</l>
                <l>On Berkly's immaterial ſcheme;</l>
                <l>
-                  <pb n="75" facs="tcp:017750_0074_0FA26E2E8F0185B0"/>
+                  <pb n="75" facs="unknown:017750_0074_0FA26E2E8F0185B0"/>
 And pondring ſad with troubled breaſt</l>
                <l>At length my riſing doubts expreſs'd.</l>
                <l>" Ah whither, thus by rebels ſmitten,</l>
@@ -3692,7 +3692,7 @@ And pondring ſad with troubled breaſt</l>
                <l>For know thoſe hopes can ne'er ſucceed</l>
                <l>That truſt on Britain's breaking reed.</l>
                <l>
-                  <pb n="76" facs="tcp:017750_0075_0FA26E2F79B80040"/>
+                  <pb n="76" facs="unknown:017750_0075_0FA26E2F79B80040"/>
 For weak'ning long from bad to worſe</l>
                <l>By fatal atrophy of purſe,</l>
                <l>She feels at length with trembling heart,</l>
@@ -3740,7 +3740,7 @@ For weak'ning long from bad to worſe</l>
                      <desc>•</desc>
                   </gap>s uſed on Job;</l>
                <l>
-                  <pb n="77" facs="tcp:017750_0076_0FA26E30263AA6D0"/>
+                  <pb n="77" facs="unknown:017750_0076_0FA26E30263AA6D0"/>
 What more remains but now with ſleight,</l>
                <l>What's left of us to ſave by ſlight?</l>
             </lg>
@@ -3787,7 +3787,7 @@ What more remains but now with ſleight,</l>
                <l>Like convict Jews condemn'd to die.</l>
             </lg>
             <lg>
-               <pb n="78" facs="tcp:017750_0077_0FA26E30E6CDEDF0"/>
+               <pb n="78" facs="unknown:017750_0077_0FA26E30E6CDEDF0"/>
                <l>Then tow'rd the north, I turn'd my eyes,</l>
                <l>Where Saratoga's heights ariſe,</l>
                <l>And ſaw our choſen vet'ran band,</l>
@@ -3831,7 +3831,7 @@ What more remains but now with ſleight,</l>
                <l>With looks unſhorn not Samſon more</l>
                <l>Made uſeleſs all the ſhow of war,</l>
                <l>
-                  <pb n="79" facs="tcp:017750_0078_0FA26E319CA9E7E8"/>
+                  <pb n="79" facs="unknown:017750_0078_0FA26E319CA9E7E8"/>
 Nor ſought with aſs;es jaw for rarity,</l>
                <l>With more ſucceſs or ſingularity.</l>
                <l>I ſaw our vet'ran thouſands yield</l>
@@ -3880,7 +3880,7 @@ Nor ſought with aſs;es jaw for rarity,</l>
                <l>For genius ſwells more ſtrong and clear</l>
                <l>When cloſe confin'd, like bottled beer:</l>
                <l>
-                  <pb n="80" facs="tcp:017750_0079_0FA26E32A35DD928"/>
+                  <pb n="80" facs="unknown:017750_0079_0FA26E32A35DD928"/>
 So Prior's wit gain'd greater pow'r,</l>
                <l>By inſpiration of the tow'r;</l>
                <l>And Raleigh faſt in priſon hurl'd</l>
@@ -3943,7 +3943,7 @@ So Prior's wit gain'd greater pow'r,</l>
                <l>This ſaid, he turn'd, and ſaw the tale,</l>
                <l>Had dyed my trembling cheeks with pale;</l>
                <l>
-                  <pb n="81" facs="tcp:017750_0080_0FA26E341EDE9298"/>
+                  <pb n="81" facs="unknown:017750_0080_0FA26E341EDE9298"/>
 Then pitying in a milder vein</l>
                <l>Purſued the viſionary ſtrain.</l>
             </lg>
@@ -3990,7 +3990,7 @@ Then pitying in a milder vein</l>
                <l>Around all ſtain'd with rebel blood,</l>
                <l>Like Milton's lazar houſe it ſtood,</l>
                <l>
-                  <pb n="82" facs="tcp:017750_0081_0FA26E348DFA0C78"/>
+                  <pb n="82" facs="unknown:017750_0081_0FA26E348DFA0C78"/>
 Where grim Deſpair attended nuri<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>,</l>
@@ -4030,7 +4030,7 @@ Where grim Deſpair attended nuri<gap reason="illegible" resp="#AELD" extent="1 
                <l>Then wiſe in ſtratagem he plann'd</l>
                <l>The ſure deſtruction of the land,</l>
                <l>
-                  <pb n="83" facs="tcp:017750_0082_0FA26E3658A02748"/>
+                  <pb n="83" facs="unknown:017750_0082_0FA26E3658A02748"/>
 Turn'd famine, ſickneſs and deſpair,</l>
                <l>To uſeful enginry of war,</l>
                <l>Inſtead of cannon, muſket, mortar,</l>
@@ -4080,7 +4080,7 @@ Turn'd famine, ſickneſs and deſpair,</l>
                   </gap> day her vot'ries tell</l>
                <l>She more devours than th' idol Bel;</l>
                <l>
-                  <pb n="84" facs="tcp:017750_0083_0FA26E3793F377B8"/>
+                  <pb n="84" facs="unknown:017750_0083_0FA26E3793F377B8"/>
 And thirſts more rav'nouſly for gore,</l>
                <l>Than any worſhipp'd Pow'r before.</l>
                <l>That antient Heathen Godhead, Moloch,</l>
@@ -4122,7 +4122,7 @@ And thirſts more rav'nouſly for gore,</l>
                <l>Bade deſolation circle far,</l>
                <l>And famine end the work of war;</l>
                <l>
-                  <pb n="85" facs="tcp:017750_0084_0FA26E37A5CCF4C8"/>
+                  <pb n="85" facs="unknown:017750_0084_0FA26E37A5CCF4C8"/>
 Thus looſed their chains and for their merits,</l>
                <l>Diſmiſs'd them free to worlds of ſpirits:</l>
                <l>Whence they with gratitude and praiſe,</l>
@@ -4164,7 +4164,7 @@ Thus looſed their chains and for their merits,</l>
                <l>What crimſon corſes ſtrew their way</l>
                <l>Till ſmoaking carnage dims the day!</l>
                <l>
-                  <pb n="86" facs="tcp:017750_0085_0FA26E3852C55028"/>
+                  <pb n="86" facs="unknown:017750_0085_0FA26E3852C55028"/>
 Along the ſhore for ſure reduction</l>
                <l>They wield their boſom of deſtruction.</l>
                <l>Great Homer likens, in his Ilias,</l>
@@ -4208,7 +4208,7 @@ Along the ſhore for ſure reduction</l>
                <l>So while your pow'r can aid their ends,</l>
                <l>You ne'er can need ten thouſand friends,</l>
                <l>
-                  <pb n="87" facs="tcp:017750_0086_0FA26E39EC681290"/>
+                  <pb n="87" facs="unknown:017750_0086_0FA26E39EC681290"/>
 But once in want by foes diſmay'd,</l>
                <l>May advertiſe them ſtol'n or ſtray'd<g ref="char:punc">▪</g>
                </l>
@@ -4262,7 +4262,7 @@ But once in want by foes diſmay'd,</l>
                <l>Nor buys for George and realms infernal,</l>
                <l>One ſpaniel, but the mongrel Arnold.</l>
                <l>
-                  <pb n="88" facs="tcp:017750_0087_0FA26E3B6BEB2618"/>
+                  <pb n="88" facs="unknown:017750_0087_0FA26E3B6BEB2618"/>
 " Twere vain to paint in viſion'd ſhow,</l>
                <l>The mighty nothings done by Howe;</l>
                <l>What towns he takes in mortal fray,</l>
@@ -4304,7 +4304,7 @@ But once in want by foes diſmay'd,</l>
                <l>Now raiſe thine eyes, and view with pleaſure,</l>
                <l>The triumphs of his famed ſucceſſor."</l>
                <l>
-                  <pb n="89" facs="tcp:017750_0088_0FA26E3C10BDA118"/>
+                  <pb n="89" facs="unknown:017750_0088_0FA26E3C10BDA118"/>
 I look'd, and now by magic lore,</l>
                <l>Faint roſe to view the Jerſey ſhore;</l>
                <l>But dimly ſeen, in glooms array'd,</l>
@@ -4348,7 +4348,7 @@ I look'd, and now by magic lore,</l>
                <l>And wiſely knows, if danger's near,</l>
                <l>'Twill fall the heavieſt on his rear.</l>
                <l>
-                  <pb n="90" facs="tcp:017750_0089_0FA26E3CD09BADB0"/>
+                  <pb n="90" facs="unknown:017750_0089_0FA26E3CD09BADB0"/>
 Go on, great Gen'ral, nor regard</l>
                <l>The ſcoffs of ev'ry ſcribling Bard,</l>
                <l>Who ſing how Gods that fatal night</l>
@@ -4390,7 +4390,7 @@ Go on, great Gen'ral, nor regard</l>
                <l>In warlike line the billows ſweep,</l>
                <l>And roll the thunders of the deep.</l>
                <l>
-                  <pb n="91" facs="tcp:017750_0090_0FA26E3F2D442E38"/>
+                  <pb n="91" facs="unknown:017750_0090_0FA26E3F2D442E38"/>
 See low in equinoctial ſkies,</l>
                <l>The Weſtern Iſlands fall their prize.</l>
                <l>See Britiſh flags o'ermatch'd in might,</l>
@@ -4434,7 +4434,7 @@ See low in equinoctial ſkies,</l>
                <l>With rapid force he leads his band</l>
                <l>To fair Virginia's fated ſtrand,</l>
                <l>
-                  <pb n="92" facs="tcp:017750_0091_0FA26E40CC2D9D60"/>
+                  <pb n="92" facs="unknown:017750_0091_0FA26E40CC2D9D60"/>
 Triumphant eyes the travell'd zone,</l>
                <l>And boaſts the ſouthern realms his own.</l>
                <l>Nor yet this hero's glories bright</l>
@@ -4480,7 +4480,7 @@ Triumphant eyes the travell'd zone,</l>
                <l>There fam'd Cornwallis tow'ring roſe,</l>
                <l>And ſcorn'd ſecure his diſtant ſoes;</l>
                <l>
-                  <pb n="93" facs="tcp:017750_0092_0FA26E41F3234348"/>
+                  <pb n="93" facs="unknown:017750_0092_0FA26E41F3234348"/>
 His bands the haughty rampart raiſe,</l>
                <l>And bid th' imperial ſtandard blaze.</l>
                <l>When lo, where ocean's bounds extend,</l>
@@ -4519,7 +4519,7 @@ His bands the haughty rampart raiſe,</l>
                <l>Yield all his captur'd hoſts a prey.</l>
             </lg>
             <lg>
-               <pb n="94" facs="tcp:017750_0093_0FA26E42119B5EB8"/>
+               <pb n="94" facs="unknown:017750_0093_0FA26E42119B5EB8"/>
                <l>There while I view'd the vanquiſh'd town,</l>
                <l>Thus with a ſigh my friend went on:</l>
                <l>" Beholdſt thou not that band forlorn,</l>
@@ -4557,7 +4557,7 @@ His bands the haughty rampart raiſe,</l>
                <l>See where reliev'd from ſad embargo,</l>
                <l>Steer off conſign'd a recreant cargo,</l>
                <l>
-                  <pb n="95" facs="tcp:017750_0094_0FA26E42DAC6FB00"/>
+                  <pb n="95" facs="unknown:017750_0094_0FA26E42DAC6FB00"/>
 Like old ſcapegoats to roam in pain,</l>
                <l>Mark'd like their great forerunner, Cain<g ref="char:punc">▪</g>
                </l>
@@ -4615,7 +4615,7 @@ Like old ſcapegoats to roam in pain,</l>
                <l>See more than human Pow'rs befriend,</l>
                <l>And lo their hoſtile forms aſcend!</l>
                <l>
-                  <pb n="96" facs="tcp:017750_0095_0FA26E43919C4530"/>
+                  <pb n="96" facs="unknown:017750_0095_0FA26E43919C4530"/>
 See tow'ring o'er th' extended ſtrand,</l>
                <l>The Genius of the weſtern land,</l>
                <l>In vengeance arm'd, his ſword aſſumes,</l>
@@ -4661,7 +4661,7 @@ See tow'ring o'er th' extended ſtrand,</l>
                <l>His breaſt plate grav'd with various dates,</l>
                <l>" The faith of all th' United States:"</l>
                <l>
-                  <pb n="97" facs="tcp:017750_0096_0FA26E445308FC60"/>
+                  <pb n="97" facs="unknown:017750_0096_0FA26E445308FC60"/>
 Before him went his fun'ral <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>,</l>
@@ -4747,7 +4747,7 @@ Before him went his fun'ral <gap reason="illegible" resp="#AELD" extent="1 word"
                      <desc>〈◊〉</desc>
                   </gap> again.</l>
                <l>
-                  <pb n="98" facs="tcp:017750_0097_0FA26E4535209DD0"/>
+                  <pb n="98" facs="unknown:017750_0097_0FA26E4535209DD0"/>
 In vain great Howe ſhall play his part,</l>
                <l>To ape and counterfeit his art;</l>
                <l>In vain ſhall Clinton, more belated,</l>
@@ -4791,7 +4791,7 @@ In vain great Howe ſhall play his part,</l>
                <l>With mould'ring hulks her ports are fill'd,</l>
                <l>And brambles clothe the cultur'd field!</l>
                <l>
-                  <pb n="99" facs="tcp:017750_0098_0FA26E478BEE7180"/>
+                  <pb n="99" facs="unknown:017750_0098_0FA26E478BEE7180"/>
 See on her cliffs her Genius lies,</l>
                <l>His handkerchief at both his eyes,</l>
                <l>With many a deepdrawn ſigh and groan,</l>
@@ -4833,7 +4833,7 @@ See on her cliffs her Genius lies,</l>
                <l>The lights put out, each Tory calls</l>
                <l>To cover him, on cellar walls,</l>
                <l>
-                  <pb n="100" facs="tcp:017750_0099_0FA26E490FB82798"/>
+                  <pb n="100" facs="unknown:017750_0099_0FA26E490FB82798"/>
 Creeps in each box, or bin, or tub,</l>
                <l>To hide his head from wrath of mob,</l>
                <l>Or lurks, where cabbages in row</l>
